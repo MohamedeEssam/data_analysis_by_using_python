@@ -33,18 +33,18 @@ No prior Python experience is required, but good programming skills in another l
 
 ## 🗓️ Weekly Training Content Overview
 
-### 📅 Week 1: [Python Foundations](codes\basics.ipynb) & [NumPy](codes\basics.ipynb)
+### 📅 Week 1: Python Foundations NumPy
 
-- Day 1: 
+- [Day 1:](codes/week1/day1) 
   1. Introduction to Python (Basic concepts)
   2. Strings, Modules
-- Day 2: 
+- [Day 2:](codes/week1/day2) 
   1. Regular expressions
   2. file processing
   3. sys module
   4. objects & classes
   5. Exception
-- Day 3: 
+- [Day 3:](codes/week1/day3) 
   1. NumPy: creation of arrays
   2. Array types and attributes
   3. Indexing & slicing & reshaping
@@ -52,7 +52,7 @@ No prior Python experience is required, but good programming skills in another l
   5. Fast computation using universal functions
   6. Aggregations: max, min, sum, mean, standard deviation
   7. Broadcasting
-- Day 4:
+- [Day 4:](codes/week1/day4)
   1. Comparisons and masking
   2. Fancy indexing
   3. Sorting array
@@ -63,14 +63,14 @@ No prior Python experience is required, but good programming skills in another l
 
 ### 📅 Week 2: Data Manipulation with Pandas
 
-- Day 1: 
+- [Day 1:](codes/week2/day1) 
   1. Introduction to Pandas
   2. Creation and indexing of series
   3. Creation of dataframes
   4. Accessing columns and rows of a dataframe
   5. Alternative indexing and data selection
   
-- Day 2&3:
+- [Day 2&3:](codes/week2/day2&3)
   1. Summary Statistics
   2. Missing data
   3. Converting columns from one type to another
@@ -87,7 +87,7 @@ No prior Python experience is required, but good programming skills in another l
   
   10. Additional information
   
-- Day 4:
+- [Day 4:](codes/week2/day4)
   1. Intro to matplotlib
   1. Line graphs, Series vs DataFrame in pandas, Bar charts
   1. Matplotlib Labeling 
@@ -97,21 +97,21 @@ No prior Python experience is required, but good programming skills in another l
 
 ### 📅 Week 3: Data Visualization & Intro to ML
 
-- Day1:
+- [Day1:](codes/week3/day1)
   1. Revision on the basics of matplotlib
   2. Solve Exercises
 
-- Day2:
+- [Day2:](codes/week3/day2)
   1. Advanced Matplotlib concepts lecture
   2. Solve Exercises
 
-- Day3:
+- [Day3:](codes/week3/day3)
   1. Introduction to seaborn
   2. Distribution plots ( distplot, jointplot, pairplot, rugplot, kdeplot)
   3. Categorical Data Plots(factorplot, boxplot, violinplot, stripplot, swarmplot, barplot, countplot)
   4. Matrix plots
 
-- Day4:
+- [Day4:](codes/week3/day4)
   1. Grids
   2. Regression plots
   3. Style and color
@@ -120,16 +120,16 @@ No prior Python experience is required, but good programming skills in another l
 
 ### 📅 Week 4: Final Project & Advanced Topics
 
-- Day1:
+- [Day1:](codes/week4/day1)
   1. Introduction to Machine Learning
   2. Linear Regression
   3. Exercises
 
-- Day2:
+- [Day2:](codes/week4/day2)
   1. Classification
   2. Exercises
 
-- Day3:
+- [Day3:](codes/week4/day3)
   1. Clustering
   2. Principle component analysis
   3. Exercises for clustering
